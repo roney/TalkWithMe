@@ -14,6 +14,7 @@
 		1692AC9323D5E7B1001D6773 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1692AC9123D5E7B1001D6773 /* Main.storyboard */; };
 		1692AC9523D5E7B4001D6773 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1692AC9423D5E7B4001D6773 /* Assets.xcassets */; };
 		1692AC9823D5E7B4001D6773 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1692AC9623D5E7B4001D6773 /* LaunchScreen.storyboard */; };
+		9662494823D5ECE900E8D7C2 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9662494723D5ECE900E8D7C2 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1692AC9423D5E7B4001D6773 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1692AC9723D5E7B4001D6773 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1692AC9923D5E7B4001D6773 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9662494723D5ECE900E8D7C2 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1692AC8D23D5E7B1001D6773 /* FirstViewController.swift */,
 				1692AC8F23D5E7B1001D6773 /* SecondViewController.swift */,
 				1692AC9123D5E7B1001D6773 /* Main.storyboard */,
+				9662494723D5ECE900E8D7C2 /* LoginViewController.swift */,
 				1692AC9423D5E7B4001D6773 /* Assets.xcassets */,
 				1692AC9623D5E7B4001D6773 /* LaunchScreen.storyboard */,
 				1692AC9923D5E7B4001D6773 /* Info.plist */,
@@ -144,6 +147,7 @@
 				1692AC9023D5E7B1001D6773 /* SecondViewController.swift in Sources */,
 				1692AC8E23D5E7B1001D6773 /* FirstViewController.swift in Sources */,
 				1692AC8A23D5E7B1001D6773 /* AppDelegate.swift in Sources */,
+				9662494823D5ECE900E8D7C2 /* LoginViewController.swift in Sources */,
 				1692AC8C23D5E7B1001D6773 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
